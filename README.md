@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi! I’m a Computer Science student and IT Technician, balancing technical infrastructure with a passion for Full Stack development. Currently, I’m deepening my expertise in modern technologies like **Java**, **C#**, **JavaScript**, **React**, **Node.js**, **Next.js**, **SQL**, and **Docker**. My focus is on building robust, end-to-end solutions through continuous learning and modern software architecture.<br><br><details><br><summary><b>🇧🇷 Leia em Português / Read in Portuguese</b></summary><br><p><br>Olá! Sou estudante de Ciência da Computação e Técnico de TI, equilibrando a infraestrutura técnica com a paixão pelo desenvolvimento Full Stack. Atualmente, estou aprofundando meus conhecimentos em tecnologias como <b>Java</b>, <b>C#</b>, <b>JavaScript</b>, <b>React</b>, <b>Node.js</b>, <b>Next.js</b>, <b>SQL</b> e <b>Docker</b>. Meu foco é construir soluções robustas de ponta a ponta através de aprendizado contínuo e arquitetura de software moderna.<br></p><br></details>
+Hi! I’m a Computer Science student and IT Technician, balancing technical infrastructure with a passion for Full Stack development. Currently, I’m deepening my expertise in modern technologies like **Java**, **C#**, **JavaScript**, **React**, **Node.js**, **Next.js**, **SQL**, and **Docker**. My focus is on building robust, end-to-end solutions through continuous learning and modern software architecture.
+
+<details>
+  <summary><b>🇧🇷 Leia em Português / Read in Portuguese</b></summary>
+  <br />
+
+  Olá! Sou estudante de Ciência da Computação e Técnico de TI, equilibrando a infraestrutura técnica com a paixão pelo desenvolvimento Full Stack. Atualmente, estou aprofundando meus conhecimentos em tecnologias como **Java**, **C#**, **JavaScript**, **React**, **Node.js**, **Next.js**, **SQL** e **Docker**. Meu foco é construir soluções robustas de ponta a ponta através de aprendizado contínuo e arquitetura de software moderna.
+
+</details>
 
 
 ## 🌐 Socials:
